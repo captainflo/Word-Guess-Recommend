@@ -1,0 +1,13 @@
+body{
+    background-image: url(../images/hangman.png);
+    background-position: center center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card{
+    margin: 40px 0px;
+}
+
+h4{
+    margin: 20px;
+}
